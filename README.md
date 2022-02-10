@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# coffeedata <img src='man/figures/output.png' align="right" height="139"/>
+# coffeedata <img src='man/figures/sticker.png' align="right" height="139"/>
 
 <!-- badges: start -->
 <!-- badges: end -->
