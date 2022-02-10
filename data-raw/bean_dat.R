@@ -1,10 +1,3 @@
-library(dplyr)
-library(readr)
-library(stringr)
-library(lubridate)
-library(janitor)
-library(tidylog)
-
 MISS = '999999'
 
 num_sections <- function(x){
